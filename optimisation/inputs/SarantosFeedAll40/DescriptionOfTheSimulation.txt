@@ -1,0 +1,8 @@
+/ 
+Model used: K1_NoEPO 
+Experimental data set used: SAR_FeedAll40 
+Bounds and FBA control values: see deposit/constraints/ for this dataset and Table 1 of the paper 
+Biomass is: R3930 
+IgG is: E3934 
+Date the files were created: on the 18Mar2020 at time 211652 
+/
